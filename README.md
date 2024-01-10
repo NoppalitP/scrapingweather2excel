@@ -11,5 +11,9 @@
 ![iqair](https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/IQAir_logo.svg/500px-IQAir_logo.svg.png)
 
 * [Pathumwan District](https://www.iqair.com/th/thailand/bangkok/pathum-wan/pathumwan-district)
+* [Lumpini Park](https://www.iqair.com/th/thailand/bangkok/pathum-wan/lumpini-park-pathumwan-district)
+* [The Royal Bangkok Sports Club](https://www.iqair.com/th/thailand/bangkok/the-royal-bangkok-sports-club)
+* [Water reservoir](https://www.iqair.com/th/thailand/nakhon-pathom/water-reservoir)
+* [Palembang, Sumatera Selatan, Indonesia](https://www.iqair.com/th/indonesia/south-sumatra/palembang/palembang-bukit-kecil)
 
 
