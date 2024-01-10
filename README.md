@@ -1,1 +1,2 @@
-# scrapingweather2excel
+# Weather Web Scraping and append to excel
+## Intro
